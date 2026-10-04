@@ -23,23 +23,46 @@ A closer look at my work in professional services, AI coaching, and literacy: th
 Summer 2026 · San Jose, CA
 {: .experience-role}
 
-### The challenge
+I worked on several professional services processes across teams and geographies.
 
-Professional services work crossed teams and geographies. Pre-sales had 6 regional processes, and converting a $144M annual services backlog involved 7 trackers and 29 manual actions. Sold work needed to be converted before its 12-month expiry.
+### Professional services workflows
 
-### What I did
-
-I interviewed process owners across 10 teams and mapped 225 steps in 7 workflows. I redesigned processes with sellers, estimators, and regional teams, routing only complex deals to specialists. I also translated automation and data-team inputs into requirements for an AI service-recommendation agent and tested designs with 45+ stakeholders across 5 geographies.
+I interviewed process owners across 10 teams, mapped 225 steps in 7 workflows, and designed a future state.
 
 <div class="experience-outcome" markdown="1">
 
-### The result
-
-The future-state design was **83% automation-enabled**, with estimated savings of **35 hours and $3K per engagement**. The pre-sales redesign combined 6 processes into one 63-step flow, automated 20 steps, and saved an estimated **7 hours per deal**.
-
-The backlog conversion redesign consolidated 7 trackers into 1 flow and cut manual actions from **29 to 4** with agent-drafted outreach. The VP and SVP approved the designs for the design queue.
+The future-state design was **83% automation-enabled**, with estimated savings of **35 hours and $3K per engagement**.
 
 </div>
+
+### Regional pre-sales
+
+I worked with sellers and estimators to combine 6 regional pre-sales processes into one 63-step flow, iterating to sign-off.
+
+<div class="experience-outcome" markdown="1">
+
+The redesigned flow automated 20 steps and routed only complex deals to specialists, saving an estimated **7 hours per deal**.
+
+</div>
+
+### Services backlog conversion
+
+I redesigned the conversion cycle for a **$144M annual services backlog** with regional teams, to convert sold work before its 12-month expiry.
+
+<div class="experience-outcome" markdown="1">
+
+The redesign consolidated 7 trackers into 1 flow and cut manual actions from **29 to 4** with agent-drafted outreach.
+
+</div>
+
+### AI service-recommendation requirements
+
+I translated automation and data-team inputs into build requirements for an AI service-recommendation agent.
+
+### Design review
+
+I tested designs with 45+ stakeholders across 5 geographies. The VP and SVP approved the designs for the design queue.
+
 </section>
 
 <section class="featured-experience" aria-labelledby="nextbound" markdown="1">
@@ -51,19 +74,25 @@ The backlog conversion redesign consolidated 7 trackers into 1 flow and cut manu
 Spring 2026 · Berkeley, CA
 {: .experience-role}
 
-### The challenge
+My work focused on coaching feedback and session review.
 
-My work focused on gaps in coaching feedback and the session review process. Reviewing a session took 1 hour.
+### Coaching feedback
 
-### What I did
-
-I diagnosed feedback gaps across 20 coaching sessions and stakeholder interviews, then built an evaluation framework and rubric. I partnered with engineering on automated scoring and KPI dashboards.
+I diagnosed feedback gaps across 20 coaching sessions and stakeholder interviews, then built an evaluation framework and rubric.
 
 <div class="experience-outcome" markdown="1">
 
-### The result
+The evaluation framework and rubric retained **100% of customers**.
 
-The evaluation framework and rubric retained **100% of customers**. Automated scoring and dashboards cut session review from **1 hour to seconds**, allowing coaching to scale without added reviewers.
+</div>
+
+### Session review
+
+I partnered with engineering on automated scoring and KPI dashboards.
+
+<div class="experience-outcome" markdown="1">
+
+Session review fell from **1 hour to seconds**, allowing coaching to scale without added reviewers.
 
 </div>
 </section>
@@ -77,33 +106,48 @@ The evaluation framework and rubric retained **100% of customers**. Automated sc
 2021–2025 · Bronx, NY
 {: .experience-role}
 
-### The challenge
+I was responsible for improving literacy outcomes for my own 120-student cohort while also leading broader schoolwide literacy and engagement work.
 
-My role included four separate workstreams: classroom reading interventions for my 120-student cohort, a schoolwide literacy initiative, engagement research, and a fluency process.
+### Classroom / 120-student cohort
 
-### What I did
-
-**Classroom / 120-student cohort.** I analyzed longitudinal performance data for my 120-student cohort and used it to target interventions.
-
-**Schoolwide literacy initiative.** Separately, I designed a 3-part literacy framework: daily dashboards covering 10,000+ data points, a teacher training rubric, and incentive structures.
-
-**Engagement research.** Separately, I surveyed 450+ students, families, and staff to identify engagement drivers.
-
-**Fluency process.** I also built a research-based fluency process.
+I analyzed longitudinal performance data for my cohort and used it to target interventions.
 
 <div class="experience-outcome" markdown="1">
 
-### The result
-
-**Classroom / 120-student cohort.** Average reading scores increased **174%** from beginning- to end-of-year benchmarks, and the number of below-grade-level readers fell **35%**.
-
-**Schoolwide literacy initiative.** The 3-part framework was adopted school-wide across **400+ students**.
-
-**Engagement research.** Initiatives resulting from that research raised belonging scores **88%**.
-
-**Fluency process.** The process was featured by regional leadership during site visits and adopted by schools network-wide.
+Average reading scores increased **174%** from beginning- to end-of-year benchmarks, and the number of below-grade-level readers fell **35%**.
 
 </div>
+
+### Schoolwide literacy initiative
+
+I designed a 3-part literacy framework: daily dashboards covering 10,000+ data points, a teacher training rubric, and incentive structures.
+
+<div class="experience-outcome" markdown="1">
+
+The framework was adopted school-wide across **400+ students**.
+
+</div>
+
+### Engagement research
+
+I surveyed 450+ students, families, and staff to identify engagement drivers.
+
+<div class="experience-outcome" markdown="1">
+
+Initiatives resulting from that research raised belonging scores **88%**.
+
+</div>
+
+### Fluency process
+
+I built a research-based fluency process.
+
+<div class="experience-outcome" markdown="1">
+
+The process was featured by regional leadership during site visits and adopted by schools network-wide.
+
+</div>
+
 </section>
 
 <section class="earlier-experience" aria-labelledby="earlier-experience" markdown="1">
