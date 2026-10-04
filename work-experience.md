@@ -79,19 +79,29 @@ The evaluation framework and rubric retained **100% of customers**. Automated sc
 
 ### The challenge
 
-My literacy work focused on below-grade-level reading and student engagement.
+My role included four separate workstreams: classroom reading interventions for my 120-student cohort, a schoolwide literacy initiative, engagement research, and a fluency process.
 
 ### What I did
 
-I analyzed performance data for a 120-student cohort to target interventions. I built a 3-part literacy framework: daily dashboards covering 10,000+ data points, a teacher training rubric, and incentive structures. I surveyed 450+ students, families, and staff to identify engagement drivers and built a research-based fluency process.
+**Classroom / 120-student cohort.** I analyzed longitudinal performance data for my 120-student cohort and used it to target interventions.
+
+**Schoolwide literacy initiative.** Separately, I designed a 3-part literacy framework: daily dashboards covering 10,000+ data points, a teacher training rubric, and incentive structures.
+
+**Engagement research.** Separately, I surveyed 450+ students, families, and staff to identify engagement drivers.
+
+**Fluency process.** I also built a research-based fluency process.
 
 <div class="experience-outcome" markdown="1">
 
 ### The result
 
-Average reading scores rose **174%** from beginning- to end-of-year benchmarks, and below-grade-level readers fell **35%**. Initiatives from the engagement research raised belonging scores **88%**.
+**Classroom / 120-student cohort.** Average reading scores increased **174%** from beginning- to end-of-year benchmarks, and the number of below-grade-level readers fell **35%**.
 
-The literacy framework was adopted school-wide across **400+ students**. The fluency process was featured by regional leadership in site visits and adopted by schools network-wide.
+**Schoolwide literacy initiative.** The 3-part framework was adopted school-wide across **400+ students**.
+
+**Engagement research.** Initiatives resulting from that research raised belonging scores **88%**.
+
+**Fluency process.** The process was featured by regional leadership during site visits and adopted by schools network-wide.
 
 </div>
 </section>
