@@ -1,6 +1,6 @@
 # Portfolio site plan
 
-Status: Awaiting approval. No website implementation or starter cleanup yet.
+Status: Approved and completed. Root-level Jekyll build, links, responsive layouts, and Lighthouse checks passed.
 
 ## Site and content
 
@@ -15,7 +15,7 @@ Status: Awaiting approval. No website implementation or starter cleanup yet.
 ## Design
 
 - Light theme only; responsive, single-column layouts with generous whitespace.
-- White or off-white backgrounds, dark text, deep teal links/buttons/heading details, occasional sage-tinted sections, and sparse mustard highlights.
+- White or off-white backgrounds, dark text, noticeable deep teal headings/links/buttons/borders, sage-tinted sections, and mustard underlines and decorative highlights. The user requested stronger color accents after seeing the first version.
 - Never use sage or mustard for text on light backgrounds. Verify accessible contrast for text and interaction states.
 - Clean modern sans-serif body typography and warmer, distinctive headings; friendly, professional, conversational tone.
 - Use the user’s descriptions of reference websites only; do not fetch them.

@@ -1,20 +1,35 @@
 modules = ["nodejs-24"]
+[agent]
+expertMode = true
 
-[deployment]
-router = "application"
-deploymentTarget = "autoscale"
-
-[deployment.postBuild]
-args = ["pnpm", "store", "prune"]
-env = { "CI" = "true" }
+[nix]
+channel = "stable-25_05"
+packages = ["ruby", "bundler", "imagemagick"]
 
 [workflows]
 runButton = "Project"
 
-[agent]
-stack = "PNPM_WORKSPACE"
-expertMode = true
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
 
-[postMerge]
-path = "scripts/post-merge.sh"
-timeoutMs = 20000
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Jekyll portfolio"
+
+[[workflows.workflow]]
+name = "Jekyll portfolio"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "JEKYLL_ENV=production bundle exec jekyll serve --host 0.0.0.0 --port 5000 --destination /tmp/abby-portfolio-preview --no-watch"
+waitForPort = 5000
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[ports]]
+localPort = 5000
+externalPort = 80

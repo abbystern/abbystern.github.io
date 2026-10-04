@@ -1,0 +1,11 @@
+<header class="site-header">
+  <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Abby Stern — home">Abby <span>Stern</span></a>
+  <nav class="primary-nav" aria-label="Main navigation">
+    <ul>
+      <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a></li>
+      <li><a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a></li>
+      <li><a href="{{ '/work-experience/' | relative_url }}"{% if page.url == '/work-experience/' %} aria-current="page"{% endif %}>Work experience</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a></li>
+    </ul>
+  </nav>
+</header>

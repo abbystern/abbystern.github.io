@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<section class="home-hero" aria-labelledby="home-title">
+  <p class="eyebrow">{{ page.eyebrow }}</p>
+  <h1 id="home-title">{{ page.heading }}</h1>
+  <p class="page-intro">{{ page.intro }}</p>
+  <figure class="portrait-frame">
+    <img src="{{ page.portrait | relative_url }}" width="640" height="640" alt="{{ page.portrait_alt }}" fetchpriority="high">
+  </figure>
+  <div class="home-note">{{ content }}</div>
+</section>
+{% include connect.html %}

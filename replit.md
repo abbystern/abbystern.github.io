@@ -1,45 +1,22 @@
-# [Project name]
+# Abby Stern portfolio
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+This is a root-level static Jekyll site for GitHub Pages. Do not introduce React, Vite, Node manifests, a backend, database, or a separate preview application.
 
-## Run & Operate
+## Publishing
 
-- `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
-- `pnpm run typecheck` — full typecheck across all packages
-- `pnpm run build` — typecheck + build all packages
-- `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
-- `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
-- Required env: `DATABASE_URL` — Postgres connection string
+GitHub user site: `https://abbystern.github.io`. Source: `main`, `/ (root)`. Keep `baseurl` empty. All actual website source lives at the repository root.
 
-## Stack
+## Preview and verification
 
-- pnpm workspaces, Node.js 24, TypeScript 5.9
-- API: Express 5
-- DB: PostgreSQL + Drizzle ORM
-- Validation: Zod (`zod/v4`), `drizzle-zod`
-- API codegen: Orval (from OpenAPI spec)
-- Build: esbuild (CJS bundle)
+- `bundle install`
+- `bundle exec jekyll serve --host 0.0.0.0 --port 5000`
+- `JEKYLL_ENV=production bundle exec jekyll build`
+- README contains editing, GitHub Pages, and Lighthouse instructions.
 
-## Where things live
+## Content rules
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+Use supplied text and résumé facts only. Do not fetch reference websites or personal information. Preserve estimated/projected qualifications on metrics. Public contact is the approved Gmail and LinkedIn, not the original résumé’s other contact details. Do not publish the original résumé PDF.
 
-## Architecture decisions
+## Design rules
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
-
-## Product
-
-_Describe the high-level user-facing capabilities of this app once they exist._
-
-## User preferences
-
-_Populate as you build — explicit user instructions worth remembering across sessions._
-
-## Gotchas
-
-_Populate as you build — sharp edges, "always run X before Y" rules._
-
-## Pointers
-
-- See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details
+Light-only, single-column, generous whitespace. The user wants more color pop through noticeable teal, sage, and mustard accents. Use deep teal headings/borders, sage-tinted backgrounds, and mustard decoration; no sage or mustard text on light backgrounds. Accessible semantic markup and visible keyboard focus. No animation system or third-party trackers.

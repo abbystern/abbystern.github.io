@@ -1,0 +1,48 @@
+title: Abby Stern
+description: "MBA student at Berkeley Haas exploring strategy, operations, AI, and better systems for people."
+url: "https://abbystern.github.io"
+baseurl: ""
+lang: en
+timezone: America/Los_Angeles
+email: abbyestern@gmail.com
+linkedin_url: "https://www.linkedin.com/in/abbystern98/"
+author:
+  name: Abby Stern
+social:
+  name: Abby Stern
+  links:
+    - "https://www.linkedin.com/in/abbystern98/"
+markdown: kramdown
+theme: null
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/images/abby-stern.webp
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - PLAN.md
+  - replit.md
+  - attached_assets
+  - verification
+  - vendor
+  - .bundle
+  - .agents
+  - .local
+  - .cache
+  - .replit
+  - .replitignore
+  - .gitignore
+  - node_modules
+  - artifacts
+  - lib
+  - scripts

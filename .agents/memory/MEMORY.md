@@ -1,1 +1,1 @@
-- [Portfolio scope](portfolio-scope.md) — Root-only GitHub Pages Jekyll site; no separate app, and implementation requires plan approval.
+- [Root Jekyll preview](portfolio-scope.md) — A custom workflow previews the actual root site without introducing a nested app artifact.

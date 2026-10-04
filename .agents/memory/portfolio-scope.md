@@ -1,16 +1,16 @@
 ---
-name: Portfolio scope
-description: User-imposed publishing structure and approval requirements for the portfolio.
+name: Root Jekyll preview
+description: Why this portfolio uses a non-artifact preview workflow rather than an app scaffold.
 ---
 
-The final project must be a root-level, static Jekyll site using Markdown with YAML front matter, reusable HTML layouts/includes, CSS, and minimal JavaScript. Do not create a React/Vite preview app, backend, database, Node application, or monorepo. GitHub Pages must publish from the main branch and repository root.
+A root-only Jekyll deliverable should be previewed through a custom workflow serving the actual Jekyll source, not through a separate app scaffold.
 
-**Why:** The user explicitly requires a repository that GitHub Pages can publish directly, without moving files or running manual build steps.
+**Why:** The artifact factory’s app scaffolds introduce nested packages and application files that conflict with this user's explicit root-only publishing requirement.
 
-**How to apply:** Keep the actual website at the root and remove unused starter application structure as part of the approved build. Ask for approval of PLAN.md before implementing.
+**How to apply:** Use the workflow preview for this site. The platform can expose its preview as a legacy canvas iframe even when listArtifacts returns no registered artifacts. Do not create a React artifact just to register a preview.
 
-Use the user’s descriptions of reference websites; do not fetch those sites or obtain personal content from URLs. Do not invent work history or achievements; mark missing content as placeholders.
+The screenshot tool cannot resolve this root workflow as a normal artifact. Headless Chromium against the shared preview proxy can capture the actual site for visual checks.
 
-**Why:** The user explicitly restricted source gathering and factual claims.
+**Why:** A non-artifact root workflow has no artifact directory registration for the screenshot resolver.
 
-**How to apply:** Use supplied text or uploaded résumé content only for biographical facts.
+**How to apply:** Keep visual verification on the same generated Jekyll site; do not create a second preview app to work around the resolver.
