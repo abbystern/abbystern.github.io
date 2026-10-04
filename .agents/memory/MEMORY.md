@@ -1,0 +1,1 @@
+- [Portfolio scope](portfolio-scope.md) — Root-only GitHub Pages Jekyll site; no separate app, and implementation requires plan approval.
