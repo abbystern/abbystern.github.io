@@ -9,8 +9,8 @@ A root-only Jekyll deliverable should be previewed through a custom workflow ser
 
 **How to apply:** Use the workflow preview for this site. The platform can expose its preview as a legacy canvas iframe even when listArtifacts returns no registered artifacts. Do not create a React artifact just to register a preview.
 
-The screenshot tool cannot resolve this root workflow as a normal artifact. Headless Chromium against the shared preview proxy can capture the actual site for visual checks.
+The screenshot tool can capture the root workflow with `appPreview`, the Jekyll serving port, and a page path. Do not pass an artifact-directory identifier for this non-artifact site.
 
-**Why:** A non-artifact root workflow has no artifact directory registration for the screenshot resolver.
+**Why:** Explicit artifact-directory resolution fails because this root workflow has no artifact registration; direct port-based captures work.
 
-**How to apply:** Keep visual verification on the same generated Jekyll site; do not create a second preview app to work around the resolver.
+**How to apply:** Use direct port-based screenshots of the actual Jekyll site. Headless Chromium against the shared preview proxy is a fallback, not a reason to create a second app.

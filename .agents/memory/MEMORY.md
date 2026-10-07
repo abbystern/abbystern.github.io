@@ -1,1 +1,2 @@
 - [Root Jekyll preview](portfolio-scope.md) — A custom workflow previews the actual root site without introducing a nested app artifact.
+- [Portfolio content fidelity](content-fidelity.md) — Keep distinct workstreams and their outcomes separate; an employer grouping does not establish causality.
