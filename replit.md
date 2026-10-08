@@ -19,4 +19,8 @@ Use supplied text and résumé facts only. Do not fetch reference websites or pe
 
 ## Design rules
 
-Light-only, single-column, generous whitespace. The user wants more color pop through noticeable teal, sage, and mustard accents. Use deep teal headings/borders, sage-tinted backgrounds, and mustard decoration; no sage or mustard text on light backgrounds. Accessible semantic markup and visible keyboard focus. No animation system or third-party trackers.
+Light-only, single-column in spirit, intentional whitespace. Target a modern tech-professional portfolio with sophisticated personal taste, not a magazine, fashion/editorial portfolio, creative agency, startup landing page, or MBA résumé template. Preserve the original teal, sage, and mustard palette rather than the rejected cream/rust/gray treatment. Keep the oversized homepage name and confident typographic hierarchy, but avoid serif-heavy styling. Prioritize extremely readable body copy and compact, highly scannable Work Experience styling with prominent metrics and sparse rules. Connect the headshot and typography intentionally. “View My Work” is primary; résumé and contact actions are quieter. Do not add gradients, stock imagery, illustrations, decorative icons, animations, excessive rounded cards, pervasive shadows, glassmorphism, or startup-style UI. Preserve accessible contrast, semantic markup, visible keyboard focus, and mobile responsiveness. No third-party trackers or added libraries.
+
+Keep the homepage introduction in the user's supplied wording rather than substituting a generic tagline. Do not reintroduce “My favorite problems are the messy ones”; the user rejected it as generic and cheesy.
+
+The user's visual reference is for shapes and vibe, not colors: checkerboard details, rounded pills, and wavy edges can add personality while retaining the existing teal, sage, and mustard palette and readable professional content.
