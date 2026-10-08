@@ -11,6 +11,8 @@ content_class: experience
 
 A closer look at my work in professional services, AI coaching, and literacy: the problems, my approach, and the results.
 
+[View Résumé (PDF)]({{ '/assets/abby-stern-resume.pdf' | relative_url }}){:target="_blank" rel="noopener" aria-label="View Résumé PDF (opens in a new tab)"}
+
 [NetApp](#netapp) · [NextBound](#nextbound) · [KIPP NYC](#kipp-nyc)
 {: .experience-jump-links}
 
