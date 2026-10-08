@@ -5,9 +5,7 @@ description: Abby Stern is a Berkeley Haas MBA student interested in technology,
 permalink: /
 eyebrow: Hello, I’m
 heading: Abby Stern.
-intro: My favorite problems are the messy ones.
+intro: MBA candidate at Berkeley Haas. Former teacher. Now working in strategy, operations, and technology.
 portrait: /assets/images/abby-stern.webp
 portrait_alt: Abby Stern smiling in a blue shirt and dark blazer
 ---
-
-I’m a Berkeley Haas MBA student interested in strategy, operations, and technology.
