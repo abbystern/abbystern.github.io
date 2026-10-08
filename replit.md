@@ -15,7 +15,7 @@ GitHub user site: `https://abbystern.github.io`. Source: `main`, `/ (root)`. Kee
 
 ## Content rules
 
-Use supplied text and résumé facts only. Do not fetch reference websites or personal information. Preserve estimated/projected qualifications on metrics. Public contact is the approved Gmail and LinkedIn, not the original résumé’s other contact details. Do not publish the original résumé PDF.
+Use supplied text and résumé facts only. Do not fetch reference websites or personal information. Preserve estimated/projected qualifications on metrics. On-site contact links use the approved Gmail and LinkedIn. For Change 2, the user approved making the supplied current résumé PDF publicly accessible unchanged; do not recreate, rewrite, or modify it.
 
 ## Design rules
 
