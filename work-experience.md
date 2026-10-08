@@ -3,13 +3,12 @@ layout: page
 title: Work Experience
 description: Abby Stern’s experience in transformation, strategy and operations, education, and community outreach.
 permalink: /work-experience/
-eyebrow: A few chapters so far
 content_class: experience
 ---
 
 # Work experience
 
-A closer look at my work in professional services, AI coaching, and literacy: the problems, my approach, and the results.
+Selected work in professional services, AI coaching, and literacy.
 
 [View Résumé (PDF)]({{ '/assets/abby-stern-resume.pdf' | relative_url }}){:target="_blank" rel="noopener" aria-label="View Résumé PDF (opens in a new tab)"}
 
@@ -194,8 +193,6 @@ Master of Arts in Teaching, Middle Childhood Grades 5–9 · July 2023
 **Emory University**, Atlanta, GA  
 Bachelor of Arts, History; completed pre-medical coursework · May 2020
 
-## Tools & interests
+## Tools
 
 **Skills:** Process mapping (Miro, Lucidchart); primary research and survey design; workshop facilitation; Excel, Tableau, Google Sheets; Notion; Claude Code; Replit.
-
-**Interests:** 200-hour certified yoga teacher; lifelong bookworm always searching for the next great read.

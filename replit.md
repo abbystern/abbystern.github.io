@@ -19,4 +19,4 @@ Use supplied text and résumé facts only. Do not fetch reference websites or pe
 
 ## Design rules
 
-Light-only, single-column, generous whitespace. The user wants more color pop through noticeable teal, sage, and mustard accents. Use deep teal headings/borders, sage-tinted backgrounds, and mustard decoration; no sage or mustard text on light backgrounds. Accessible semantic markup and visible keyboard focus. No animation system or third-party trackers.
+Light-only, single-column in spirit, generous whitespace. The approved Change 3 direction is an understated, chic editorial portfolio with strong display typography, readable body text, an intentional headshot composition, and restrained accent color. Avoid corporate navy or an all-beige treatment. Do not add gradients, stock imagery, illustrations, decorative icons, animations, excessive rounded cards, pervasive shadows, glassmorphism, or startup-style UI. Preserve accessible contrast, semantic markup, visible keyboard focus, and mobile responsiveness. No third-party trackers or added libraries.

@@ -5,14 +5,13 @@ layout: default
   <p class="eyebrow">{{ page.eyebrow }}</p>
   <h1 id="home-title">{{ page.heading }}</h1>
   <p class="page-intro">{{ page.intro }}</p>
-  <div class="link-row">
+  <nav class="link-row" aria-label="Explore Abby's site">
     <a class="button-link" href="{{ '/work-experience/' | relative_url }}">View My Work</a>
     <a class="button-link secondary" href="{{ '/assets/abby-stern-resume.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="View Résumé (PDF, opens in a new tab)">View Résumé</a>
     <a class="button-link secondary" href="{{ '/contact/' | relative_url }}">Contact Me</a>
-  </div>
+  </nav>
   <figure class="portrait-frame">
     <img src="{{ page.portrait | relative_url }}" width="640" height="640" alt="{{ page.portrait_alt }}" fetchpriority="high">
   </figure>
   <div class="home-note">{{ content }}</div>
 </section>
-{% include connect.html %}
